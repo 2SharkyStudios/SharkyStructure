@@ -1,10 +1,6 @@
 # SharkyStructure
 Structure finder for minecraft fabric 1.21.8-1.21.11
 
-
-<h1>OPLv1.1</h1>
-<h4>Open Protected License v1.1 Protections for open source projects from skids and code stealers</h4>
-<hr>
 <h2>Summary of the Open Protected License v1</h2>
 
 <p>The Open Protected License v1 (2025) by Kyle Hosting LTD allows free use, forking, and modification of the software for non-commercial purposes under specific conditions:</p>
