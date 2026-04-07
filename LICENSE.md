@@ -1,11 +1,11 @@
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; width: 600px; margin: auto; font-family: Arial, sans-serif; background-color: #f9f9f9;">
-    <h2 style="text-align: center;">Open Protected License v1</h2>
+    <h2 style="text-align: center;">Open Protected License v1.1</h2>
     <p style="text-align: center;"><strong>Copyright (c) 2025 Kyle Hosting LTD</strong></p>
     <hr>
     <h3>License Grant</h3>
     <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to fork, copy, or make modifications to the original repository for non-commercial purposes, subject to the following conditions:</p>
     <h4>1. Commercial Use</h4>
-    <p>You are expressly prohibited from modifying the Software for commercial use, including changing the name to create a distinct product for commercial purposes.</p>    
+    <p>You are expressly prohibited from modifying the Software for COMMERCIAL use, including but not limited to changing the name to create a distinct product for commercial purposes.</p>    
     <h4>2. Contribution Forks</h4>
     <p>Forks of the Software are permitted for the purpose of modifications intended to enhance the original repository. Such forks must be clearly designated as contributions to the original repository.</p>
     <h4>3. Redistribution</h4>
